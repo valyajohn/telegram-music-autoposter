@@ -1,0 +1,10 @@
+{
+  "interval_hours": 3,
+  "timezone": "Europe/Moscow",
+  "telegram_channel_id": "@my_channel_username",
+  "default_tags": [
+    "music",
+    "новинки",
+    "leaks"
+  ]
+}
